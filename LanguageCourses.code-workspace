@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Trailhead",
+			"path": "."
+		}
+	],
+	"settings": {
+		"salesforcedx-vscode-core.push-or-deploy-on-save.enabled": false,
+		"salesforcedx-vscode-core.show-cli-success-msg": false
+	}
+}
